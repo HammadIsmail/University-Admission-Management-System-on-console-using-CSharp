@@ -1,0 +1,5 @@
+1,Hammad,Ali,1000,1000,200,78.7,cs,Active,1000
+2,Asim,Ali,1000,1000,200,78.63636,Textile Engineer,Active,7000
+3,Muneeb,Ahmad,1000,900,200,74.54546,Computer Science,InActive,0
+4,Zain,Ali,1000,700,200,66.36364,Computer Science,Active,4000
+5,Anjum,Ali,1000,500,200,58.18182,Computer Science,Active,6000
